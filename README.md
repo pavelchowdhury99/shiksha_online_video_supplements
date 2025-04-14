@@ -6,3 +6,4 @@ https://www.youtube.com/playlist?list=PL_oCQb8en1Gs0wkpC-Hs1C_z6jJZZ1L30).
 
 Projects include
 1. [dynamic_prorgamming_in_python](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/dynamic_prorgamming_in_python)
+2. [best_practices_and_pitfalls_of_rest_api_design](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/best_practices_and_pitfalls_of_rest_api_design)

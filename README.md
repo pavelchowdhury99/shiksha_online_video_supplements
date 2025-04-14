@@ -15,3 +15,4 @@ Projects include
 5. [naive_bayes_classifiers_using_python](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/naive_bayes_classifiers_using_python)
 5. [python_roadmap](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/python_roadmap)
 5. [git_overview](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/git_overview)
+5. [youtube_channel_video_details](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/youtube_channel_video_details)

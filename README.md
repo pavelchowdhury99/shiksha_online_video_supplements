@@ -12,3 +12,4 @@ Projects include
 5. [django_orm](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/django_orm)
 5. [python_loops](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/python_loops)
 5. [python_dictionaries](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/python_dictionaries)
+5. [naive_bayes_classifiers_using_python](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/naive_bayes_classifiers_using_python)

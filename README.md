@@ -19,3 +19,4 @@ Projects include
 5. [automated_reports_generation](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/automated_reports_generation)
 5. [seo_keyword_extraction](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/seo_keyword_extraction)
 5. [sentiment_analyzer_api](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/sentiment_analyzer_api)
+5. [etl_for_web_scraping](https://github.com/pavelchowdhury99/shiksha_online_video_supplements/tree/main/etl_for_web_scraping)
